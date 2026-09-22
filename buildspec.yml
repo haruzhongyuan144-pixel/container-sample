@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    ECR_REPOSITORY: 529819912913.dkr.ecr.us-east-1.amazonaws.com/ecr-handson-repository
+    ECR_REPOSITORY: 529819912913.dkr.ecr.ap-northeast-1.amazonaws.com/ecr-handson-repository
 
 phases:
   pre_build:
